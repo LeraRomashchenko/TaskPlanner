@@ -1,0 +1,53 @@
+body {
+    background: #FFE4B5;
+}
+
+input {
+    background: #20B2AA;
+    color: #ffffff;
+}
+
+.num {
+    width: 120px;
+    height: 25px;
+    margin: 10px 10px 10px 10px;
+}
+
+input::-webkit-input-placeholder {
+    color: #FFE4B5;
+}
+
+table, th, td {
+    border: 2px solid #8B4513;
+    text-align: center;
+}
+
+table {
+    width: 30%;
+}
+
+th {
+    height: 50px;
+}
+
+.task {
+    height: 20px;
+    margin: 1px 10px;
+}
+
+.tact {
+    width: 20px;
+    height: 20px;
+    background: #FF7F24;
+    margin: 0 1px;
+    display: inline-block;
+}
+
+.tact1 {
+    width: 20px;
+    height: 20px;
+    background: #FF7F24;
+    margin: 0 1px;
+    display: inline-block;
+    position: absolute;
+}
